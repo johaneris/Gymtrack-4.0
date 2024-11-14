@@ -1,45 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\gabri\\onedrive\\documentos\\gymtrack4\\gymtrack-4.0\\interfazdeusuario\\interfazdeusuario\\formularios\\frmtipouruario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmtipouruario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\odiogithub\\gymtrack_3.0\\interfazdeusuario\\interfazdeusuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\gabri\\onedrive\\documentos\\gymtrack4\\gymtrack-4.0\\interfazdeusuario\\interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\gabri\\onedrive\\documentos\\gymtrack4\\gymtrack-4.0\\interfazdeusuario\\interfazdeusuario\\formularios\\frmtipouruario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmtipouruario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTipoUruario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:22:27.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTipoUruario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmTipoUruario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:22:00.092Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -66,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FrmCambiarContra.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T12:59:04.269Z",
@@ -78,50 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmCambiarContra.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:05:17.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T01:40:44.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Service\\LoginService.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Service\\LoginService.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T02:23:00.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FrmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T01:38:41.66Z",
@@ -129,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T23:33:36.498Z",
@@ -141,22 +132,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCambiarContra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:05:17.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Service\\LoginService.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Service\\LoginService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:23:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:40:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AboutBox1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\AboutBox1.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T16:44:54.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\models\\Admin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
               "RelativeToolTip": "InterfazdeUsuario\\models\\Admin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,22 +192,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FrmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T14:40:12.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\odioGithub\\Gymtrack_3.0\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gymtrack4\\Gymtrack-4.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
               "RelativeToolTip": "InterfazdeUsuario\\FrmPrincipal.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAmwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
