@@ -112,5 +112,12 @@ namespace InterfazdeUsuario
             admin.ShowDialog();
             
         }
+
+        private void btnMiembros_Click(object sender, EventArgs e)
+        {
+            FrmTipoUsuario usuario = new FrmTipoUsuario();
+            this.Hide();
+            usuario.ShowDialog();
+        }
     }
 }
