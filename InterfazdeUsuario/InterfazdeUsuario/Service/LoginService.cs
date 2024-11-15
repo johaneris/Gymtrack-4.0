@@ -24,7 +24,7 @@ namespace InterfazdeUsuario.Service
             //guardar la la contra y el user 
             if (!File.Exists(FilePath))
             {
-                SaveData("Administrador", "Uam123");
+                SaveData("Admin", "Uam123");
             }
             else
             {
