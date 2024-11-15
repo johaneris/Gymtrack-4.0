@@ -82,7 +82,7 @@
             this.btnCancelar.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.btnCancelar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnCancelar.IconSize = 38;
-            this.btnCancelar.Location = new System.Drawing.Point(245, 116);
+            this.btnCancelar.Location = new System.Drawing.Point(261, 116);
             this.btnCancelar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
@@ -103,7 +103,7 @@
             this.btnLogin.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.btnLogin.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnLogin.IconSize = 38;
-            this.btnLogin.Location = new System.Drawing.Point(9, 144);
+            this.btnLogin.Location = new System.Drawing.Point(26, 144);
             this.btnLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
@@ -132,7 +132,7 @@
             this.ClientSize = new System.Drawing.Size(715, 316);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmTipoUsuario";
             this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Text = "Form1";

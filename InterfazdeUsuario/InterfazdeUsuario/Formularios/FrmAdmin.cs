@@ -16,5 +16,11 @@ namespace InterfazdeUsuario.Formularios
         {
             InitializeComponent();
         }
+
+        private void reportesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmReportes frm = new FrmReportes();    
+            frm.ShowDialog();
+        }
     }
 }
