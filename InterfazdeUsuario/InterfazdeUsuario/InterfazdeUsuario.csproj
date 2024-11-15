@@ -129,6 +129,8 @@
       <DependentUpon>FrmAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="models\Admin.cs" />
+    <Compile Include="models\External.cs" />
+    <Compile Include="models\Student.cs" />
     <Compile Include="Service\consejos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
