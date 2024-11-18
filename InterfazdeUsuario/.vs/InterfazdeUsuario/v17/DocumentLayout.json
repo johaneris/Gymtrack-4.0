@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\gymtrackalp 2.0\\interfazdeusuario\\interfazdeusuario\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -95,8 +95,7 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T21:22:27.627Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -109,8 +108,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T21:39:10.782Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
@@ -125,14 +135,6 @@
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmReportes.cs [Design]",
@@ -141,12 +143,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmReportes.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmReportes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T12:51:15.318Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "WhenOpened": "2024-11-15T12:51:15.318Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:33:36.498Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T23:33:36.498Z"
             },
             {
               "$type": "Document",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T00:28:31.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T00:28:31.077Z"
             },
             {
               "$type": "Document",
@@ -182,8 +177,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T01:38:41.66Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T01:38:41.66Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:22:00.092Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T21:22:00.092Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmExternal.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmExternal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:48:30.597Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T21:48:30.597Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "RelativeToolTip": "InterfazdeUsuario\\Service\\LoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T02:23:00.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T02:23:00.029Z"
             },
             {
               "$type": "Document",
@@ -231,8 +222,7 @@
               "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmStudent.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmStudent.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:39:06.674Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T21:39:06.674Z"
             },
             {
               "$type": "Document",
@@ -256,8 +246,7 @@
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T01:40:44.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T01:40:44.158Z"
             },
             {
               "$type": "Document",
