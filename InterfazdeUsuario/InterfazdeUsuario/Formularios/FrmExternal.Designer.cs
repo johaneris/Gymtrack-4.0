@@ -56,10 +56,17 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::InterfazdeUsuario.Properties.Resources.x;
+<<<<<<< HEAD
             this.pictureBox1.Location = new System.Drawing.Point(-20, 25);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(248, 231);
+=======
+            this.pictureBox1.Location = new System.Drawing.Point(-15, 20);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(186, 188);
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -90,11 +97,19 @@
             this.iconButton3.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton3.IconSize = 38;
+<<<<<<< HEAD
             this.iconButton3.Location = new System.Drawing.Point(154, 193);
             this.iconButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconButton3.Name = "iconButton3";
             this.iconButton3.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
             this.iconButton3.Size = new System.Drawing.Size(224, 63);
+=======
+            this.iconButton3.Location = new System.Drawing.Point(90, 142);
+            this.iconButton3.Margin = new System.Windows.Forms.Padding(2);
+            this.iconButton3.Name = "iconButton3";
+            this.iconButton3.Padding = new System.Windows.Forms.Padding(8, 0, 15, 0);
+            this.iconButton3.Size = new System.Drawing.Size(190, 51);
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.iconButton3.TabIndex = 14;
             this.iconButton3.Text = "Registrarse";
             this.iconButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -242,7 +257,12 @@
             this.ClientSize = new System.Drawing.Size(712, 315);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.Name = "FrmExternal";
             this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Text = "FrmExternal";

@@ -132,7 +132,12 @@
             this.ClientSize = new System.Drawing.Size(715, 316);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(4);
+=======
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.Name = "FrmTipoUsuario";
             this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Text = "Form1";
