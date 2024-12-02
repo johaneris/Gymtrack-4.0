@@ -1,45 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\",
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\gymtrack algp\\interfazdeusuario\\interfazdeusuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\gymtrackalp 2.0\\interfazdeusuario\\interfazdeusuario\\formularios\\frmaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\gymtrack algp\\interfazdeusuario\\interfazdeusuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|c:\\users\\naole\\onedrive\\gymtrack algp\\interfazdeusuario\\interfazdeusuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\formularios\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB5133A-C661-4AF5-B56D-C84EA50C2E38}|InterfazdeUsuario\\InterfazdeUsuario.csproj|solutionrelative:interfazdeusuario\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,11 +82,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:22:27.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmStudent.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:10.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -63,61 +126,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmCambiarContra.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
+              "Title": "FrmAccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAccess.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmAccess.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAccess.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAccess.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T12:59:04.269Z",
+              "WhenOpened": "2024-11-15T12:53:51.923Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCambiarContra.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FrmReportes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmReportes.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmReportes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:05:17.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T12:51:15.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FrmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T01:40:44.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T23:33:36.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:28:31.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Service\\LoginService.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\Service\\LoginService.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T02:23:00.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "FrmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T01:38:41.66Z",
@@ -125,65 +183,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmAdmin.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "FrmTipoUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmTipoUsuario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:33:36.498Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T21:22:00.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AboutBox1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\AboutBox1.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
-              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmLogin.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAxwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:44:54.179Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\models\\Admin.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T02:27:30.724Z",
+              "WhenOpened": "2024-11-10T01:40:44.158Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FrmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs [Design]",
-              "RelativeToolTip": "InterfazdeUsuario\\FrmPrincipal.cs [Design]",
+              "Title": "FrmExternal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmExternal.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmExternal.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmExternal.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmExternal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:40:12.617Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T21:48:30.597Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACK ALGP\\interfazdeusuario\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
-              "RelativeToolTip": "InterfazdeUsuario\\FrmPrincipal.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAmwHAAAAAAAAAAAAAAAA==",
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Service\\LoginService.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Service\\LoginService.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Service\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:48:23.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T02:23:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmStudent.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmStudent.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:06.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\FrmPrincipal.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAArwHUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:48:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:40:12.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmCambiarContra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:59:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCambiarContra.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\FrmCambiarContra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:05:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutBox1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\Formularios\\AboutBox1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
+              "RelativeToolTip": "InterfazdeUsuario\\Formularios\\AboutBox1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:44:54.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
+              "RelativeDocumentMoniker": "InterfazdeUsuario\\models\\Admin.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\GYMTRACKALP 2.0\\InterfazdeUsuario\\InterfazdeUsuario\\models\\Admin.cs",
+              "RelativeToolTip": "InterfazdeUsuario\\models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:27:30.724Z"
             }
           ]
         }

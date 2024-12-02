@@ -47,19 +47,26 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(0, 24);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(0, 30);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(164, 236);
+            this.panel1.Size = new System.Drawing.Size(219, 290);
             this.panel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::InterfazdeUsuario.Properties.Resources.x;
+<<<<<<< HEAD
+            this.pictureBox1.Location = new System.Drawing.Point(-20, 25);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(248, 231);
+=======
             this.pictureBox1.Location = new System.Drawing.Point(-15, 20);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(186, 188);
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -74,10 +81,10 @@
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.label3);
-            this.panel2.Location = new System.Drawing.Point(161, 24);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(215, 30);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(376, 236);
+            this.panel2.Size = new System.Drawing.Size(501, 290);
             this.panel2.TabIndex = 1;
             // 
             // iconButton3
@@ -90,11 +97,19 @@
             this.iconButton3.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton3.IconSize = 38;
+<<<<<<< HEAD
+            this.iconButton3.Location = new System.Drawing.Point(154, 193);
+            this.iconButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.iconButton3.Name = "iconButton3";
+            this.iconButton3.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.iconButton3.Size = new System.Drawing.Size(224, 63);
+=======
             this.iconButton3.Location = new System.Drawing.Point(90, 142);
             this.iconButton3.Margin = new System.Windows.Forms.Padding(2);
             this.iconButton3.Name = "iconButton3";
             this.iconButton3.Padding = new System.Windows.Forms.Padding(8, 0, 15, 0);
             this.iconButton3.Size = new System.Drawing.Size(190, 51);
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.iconButton3.TabIndex = 14;
             this.iconButton3.Text = "Registrarse";
             this.iconButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -106,16 +121,18 @@
             // 
             // 
             this.metroTextBox3.CustomButton.Image = null;
-            this.metroTextBox3.CustomButton.Location = new System.Drawing.Point(165, 1);
+            this.metroTextBox3.CustomButton.Location = new System.Drawing.Point(297, 2);
+            this.metroTextBox3.CustomButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox3.CustomButton.Name = "";
-            this.metroTextBox3.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.metroTextBox3.CustomButton.Size = new System.Drawing.Size(31, 28);
             this.metroTextBox3.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox3.CustomButton.TabIndex = 1;
             this.metroTextBox3.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
             this.metroTextBox3.CustomButton.UseSelectable = true;
             this.metroTextBox3.CustomButton.Visible = false;
             this.metroTextBox3.Lines = new string[0];
-            this.metroTextBox3.Location = new System.Drawing.Point(131, 102);
+            this.metroTextBox3.Location = new System.Drawing.Point(175, 126);
+            this.metroTextBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox3.MaxLength = 32767;
             this.metroTextBox3.Name = "metroTextBox3";
             this.metroTextBox3.PasswordChar = '\0';
@@ -124,7 +141,7 @@
             this.metroTextBox3.SelectionLength = 0;
             this.metroTextBox3.SelectionStart = 0;
             this.metroTextBox3.ShortcutsEnabled = true;
-            this.metroTextBox3.Size = new System.Drawing.Size(187, 23);
+            this.metroTextBox3.Size = new System.Drawing.Size(249, 28);
             this.metroTextBox3.TabIndex = 13;
             this.metroTextBox3.UseSelectable = true;
             this.metroTextBox3.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -137,16 +154,18 @@
             // 
             // 
             this.metroTextBox2.CustomButton.Image = null;
-            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(165, 1);
+            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(297, 2);
+            this.metroTextBox2.CustomButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox2.CustomButton.Name = "";
-            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(31, 28);
             this.metroTextBox2.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox2.CustomButton.TabIndex = 1;
             this.metroTextBox2.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
             this.metroTextBox2.CustomButton.UseSelectable = true;
             this.metroTextBox2.CustomButton.Visible = false;
             this.metroTextBox2.Lines = new string[0];
-            this.metroTextBox2.Location = new System.Drawing.Point(130, 66);
+            this.metroTextBox2.Location = new System.Drawing.Point(173, 81);
+            this.metroTextBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox2.MaxLength = 32767;
             this.metroTextBox2.Name = "metroTextBox2";
             this.metroTextBox2.PasswordChar = '\0';
@@ -155,7 +174,7 @@
             this.metroTextBox2.SelectionLength = 0;
             this.metroTextBox2.SelectionStart = 0;
             this.metroTextBox2.ShortcutsEnabled = true;
-            this.metroTextBox2.Size = new System.Drawing.Size(187, 23);
+            this.metroTextBox2.Size = new System.Drawing.Size(249, 28);
             this.metroTextBox2.TabIndex = 12;
             this.metroTextBox2.UseSelectable = true;
             this.metroTextBox2.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -168,16 +187,18 @@
             // 
             // 
             this.metroTextBox1.CustomButton.Image = null;
-            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(165, 1);
+            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(297, 2);
+            this.metroTextBox1.CustomButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox1.CustomButton.Name = "";
-            this.metroTextBox1.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.metroTextBox1.CustomButton.Size = new System.Drawing.Size(31, 28);
             this.metroTextBox1.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox1.CustomButton.TabIndex = 1;
             this.metroTextBox1.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
             this.metroTextBox1.CustomButton.UseSelectable = true;
             this.metroTextBox1.CustomButton.Visible = false;
             this.metroTextBox1.Lines = new string[0];
-            this.metroTextBox1.Location = new System.Drawing.Point(131, 22);
+            this.metroTextBox1.Location = new System.Drawing.Point(175, 27);
+            this.metroTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox1.MaxLength = 32767;
             this.metroTextBox1.Name = "metroTextBox1";
             this.metroTextBox1.PasswordChar = '\0';
@@ -186,7 +207,7 @@
             this.metroTextBox1.SelectionLength = 0;
             this.metroTextBox1.SelectionStart = 0;
             this.metroTextBox1.ShortcutsEnabled = true;
-            this.metroTextBox1.Size = new System.Drawing.Size(187, 23);
+            this.metroTextBox1.Size = new System.Drawing.Size(249, 28);
             this.metroTextBox1.TabIndex = 11;
             this.metroTextBox1.UseSelectable = true;
             this.metroTextBox1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -198,10 +219,9 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold);
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(45, 66);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Location = new System.Drawing.Point(60, 81);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(80, 22);
+            this.label5.Size = new System.Drawing.Size(103, 27);
             this.label5.TabIndex = 10;
             this.label5.Text = "Correo:";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -211,10 +231,9 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold);
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(46, 103);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Location = new System.Drawing.Point(61, 127);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(80, 22);
+            this.label4.Size = new System.Drawing.Size(103, 27);
             this.label4.TabIndex = 9;
             this.label4.Text = "Cedula:";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -224,24 +243,28 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold);
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(45, 24);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(60, 30);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(80, 22);
+            this.label3.Size = new System.Drawing.Size(103, 27);
             this.label3.TabIndex = 8;
             this.label3.Text = "Nombre:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // FrmExternal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(534, 256);
+            this.ClientSize = new System.Drawing.Size(712, 315);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+<<<<<<< HEAD
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.Name = "FrmExternal";
+            this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Text = "FrmExternal";
             this.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.Load += new System.EventHandler(this.FrmExternal_Load);

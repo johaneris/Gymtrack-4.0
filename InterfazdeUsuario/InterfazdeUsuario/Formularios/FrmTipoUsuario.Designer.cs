@@ -43,19 +43,19 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(0, 24);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(0, 30);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(164, 236);
+            this.panel1.Size = new System.Drawing.Size(219, 290);
             this.panel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::InterfazdeUsuario.Properties.Resources.x;
-            this.pictureBox1.Location = new System.Drawing.Point(-15, 20);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Location = new System.Drawing.Point(-20, 25);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(186, 188);
+            this.pictureBox1.Size = new System.Drawing.Size(248, 231);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -66,10 +66,10 @@
             this.panel2.Controls.Add(this.btnCancelar);
             this.panel2.Controls.Add(this.btnLogin);
             this.panel2.Controls.Add(this.label1);
-            this.panel2.Location = new System.Drawing.Point(161, 24);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(215, 30);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(376, 236);
+            this.panel2.Size = new System.Drawing.Size(501, 290);
             this.panel2.TabIndex = 1;
             // 
             // btnCancelar
@@ -82,11 +82,11 @@
             this.btnCancelar.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.btnCancelar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnCancelar.IconSize = 38;
-            this.btnCancelar.Location = new System.Drawing.Point(184, 94);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnCancelar.Location = new System.Drawing.Point(261, 116);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Padding = new System.Windows.Forms.Padding(8, 0, 15, 0);
-            this.btnCancelar.Size = new System.Drawing.Size(169, 97);
+            this.btnCancelar.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnCancelar.Size = new System.Drawing.Size(225, 119);
             this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Persona Externa";
             this.btnCancelar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -103,11 +103,11 @@
             this.btnLogin.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(152)))), ((int)(((byte)(143)))));
             this.btnLogin.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnLogin.IconSize = 38;
-            this.btnLogin.Location = new System.Drawing.Point(7, 117);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLogin.Location = new System.Drawing.Point(26, 144);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Padding = new System.Windows.Forms.Padding(8, 0, 15, 0);
-            this.btnLogin.Size = new System.Drawing.Size(172, 51);
+            this.btnLogin.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnLogin.Size = new System.Drawing.Size(229, 63);
             this.btnLogin.TabIndex = 8;
             this.btnLogin.Text = "Estudiante";
             this.btnLogin.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -119,23 +119,27 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(43, 48);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(57, 59);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(310, 22);
+            this.label1.Size = new System.Drawing.Size(402, 27);
             this.label1.TabIndex = 2;
             this.label1.Text = "Seleccione su tipo de usuario:";
             // 
             // FrmTipoUsuario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(536, 257);
+            this.ClientSize = new System.Drawing.Size(715, 316);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+<<<<<<< HEAD
+            this.Margin = new System.Windows.Forms.Padding(4);
+=======
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+>>>>>>> d78ec5bb4d4875ae74bba95a15d269b930930cff
             this.Name = "FrmTipoUsuario";
+            this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Text = "Form1";
             this.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.Load += new System.EventHandler(this.Form1_Load);
